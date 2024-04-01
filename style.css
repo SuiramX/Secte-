@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+body {
+    background-image: url('https://media.discordapp.net/attachments/1196805817417072760/1196815787407708201/2018-06-01_New_Age.png?ex=65b9008f&is=65a68b8f&hm=ad3c435b20d24a5aadc45723ec0e466d6ea93925c63d11dd4c34239c0da464c9&=&format=webp&quality=lossless&width=1620&height=900');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+form {
+    padding-top: 300px;
+
+}
+
+.label-container {
+    margin-bottom: 0px;
+}

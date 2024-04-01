@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    position: relative;
+}
+
+body {
+    background-image: url('2018-06-01_New_Age.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+form {
+    padding-top: 200px;
+
+}
+
+.label-container {
+    margin-top: 20px;
+}
+.navbar{
+    background-color: #FFFFFF   ;
+}
